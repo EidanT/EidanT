@@ -2,7 +2,7 @@
 
 Software Developer Student at ITLA.
 
-I'm working on a project that's a social media app where users can find teammates to play games. In the app, users can post clips and pictures of their gameplay, chat with others, and search for teammates through a live matchmaking system. The project is being built using React Native for the frontend and C# for the backend. I'm mainly focused on developing the frontend in React Native, while my team handles the backend work.
+I'm working on a social media app where users can find teammates to play games, post gameplay clips, chat, and use a live matchmaking system. The app is built with React Native for the frontend and C# for the backend. I'm focusing on the frontend while my team handles the backend.
 
 
 <!--
