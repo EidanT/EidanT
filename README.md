@@ -2,8 +2,9 @@
 
 Software Developer Student at ITLA.
 
-I'm currently working on a social media app where users can find teammates to play games, post gameplay clips, chat, and use a live matchmaking system. The app is built with React Native for the frontend and C# for the backend. I'm focusing on the frontend while my team handles the backend.
-
+Projects in Progress:
+- 🤖This project is a self-hosted AI assistant that can send Gmail messages and create Google Calendar events using natural language. It is built with React and TypeScript for the frontend, n8n for automation, and Docker for deployment. The AI runs locally using Ollama, ensuring better privacy and full control of the system.
+- 🎮 I'm currently working on a social media app where users can find teammates to play games, post gameplay clips, chat, and use a live matchmaking system. The app is built with React Native for the frontend and C# for the backend.
 
 <!--
 **EidanT/EidanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
