@@ -3,6 +3,7 @@
 Software Developer Student at ITLA.
 
 Projects in Progress:
+
 **AI Assistant**
 This project is a self-hosted AI assistant that can send Gmail messages and create Google Calendar events using natural language. It is built with React and TypeScript for the frontend, n8n for automation, and Docker for deployment. The AI runs locally using Ollama, ensuring better privacy and full control of the system.
 
